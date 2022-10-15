@@ -11,5 +11,6 @@ This project is been made for ABES Engineering College by the Team of Entreprene
 - One Click Filters
 - Teaching and Class Schedule
 - Download in any Format.
+- Student can See Attendance.
 
 
